@@ -19,6 +19,9 @@ export default function Home() {
         <li className="list-none">Articles</li>
       </ul>
       </nav>
+      <footer>
+        <p>Copyright 2025 Eptoon. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
