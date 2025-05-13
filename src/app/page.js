@@ -1,5 +1,22 @@
 import Image from "next/image";
 
+export const metadata = {
+  title: '일상의웹툰사우르스',
+  description: '일상의웹툰사우르스에 오신 것을 환영합니다',
+  openGraph: {
+    title: '일상의웹툰사우르스',
+    description: '당신의 일상을 만화로 🦖',
+    images: [
+      {
+        url: '/ept.svg',
+        width: 150,
+        height: 50,
+        alt: 'Eptoon Logo',
+      },
+    ],
+  },
+};
+
 export default function Home() {
   return (
     <div>
