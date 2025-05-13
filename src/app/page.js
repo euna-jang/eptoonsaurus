@@ -12,10 +12,10 @@ export default function Home() {
       />
       <nav>
       <ul>
-        <li>About</li>
-        <li>Shop</li>
-        <li>Eptoonsaurus</li>
-        <li>Articles</li>
+        <li className="list-none">About</li>
+        <li className="list-none">Shop</li>
+        <li className="list-none">Eptoonsaurus</li>
+        <li className="list-none">Articles</li>
       </ul>
       </nav>
     </div>
