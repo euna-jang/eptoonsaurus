@@ -14,6 +14,7 @@ export default function Home() {
       <ul>
         <li className="list-none">About</li>
         <li className="list-none">Shop</li>
+        <li className="list-none">Contact</li>
         <li className="list-none">Eptoonsaurus</li>
         <li className="list-none">Articles</li>
       </ul>
