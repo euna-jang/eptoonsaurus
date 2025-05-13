@@ -37,7 +37,7 @@ export default function Home() {
       </ul>
       </nav>
       <footer>
-        <p>Copyright 2025 Eptoon. All rights reserved.</p>
+        <p className="absolute bottom-0">Copyright 2025 Eptoon. All rights reserved.</p>
       </footer>
     </div>
   );
